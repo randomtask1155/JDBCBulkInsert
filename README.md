@@ -27,7 +27,7 @@ lksdfd	slkdfjds	klsdjfwo	sodifjds	fdlksjfew
 lksdfd	slkdfjds	klsdjfwo	sodifjds	fdlksjfew
 lksdfd	slkdfjds	klsdjfwo	sodifjds	fdlksjfew
 ```
-Exectuing copy
+Executing copy
 ```
 [gpadmin@hdm1 ~]$ /usr/java/default/bin/java -classpath JDBCBulkInsert-1.0-jar-with-dependencies.jar io.pivotal.support.JDBCBulkInsert "jdbc:postgresql://localhost:5432/gpadmin" gpadmin gpadmin /tmp/test.txt jdbc_load;
 ~# Loading Driver org.postgresql.Driver
